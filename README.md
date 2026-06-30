@@ -1,7 +1,7 @@
 # Freight Invoice Reconciliation, Gap Analysis and RPA Automation
 
 **Portfolio Project, N M Ziyaf**
-Supply Chain Business Analyst, Automation Anywhere Certified, UiPath Certified, Six Sigma Black Belt
+Supply Chain Business Analyst
 
 ---
 
@@ -85,5 +85,7 @@ Gap analysis using as-is and to-be state mapping. Root cause analysis using the 
 ## Author
 
 N M Ziyaf
+
 Supply Chain Business Analyst, Sydney NSW
+
 linkedin.com/in/ziyafmohamed
